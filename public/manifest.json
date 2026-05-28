@@ -1,0 +1,9 @@
+﻿{
+  "name": "Ghost Wing",
+  "short_name": "Ghost Wing",
+  "display": "fullscreen",
+  "start_url": "/",
+  "background_color": "#000010",
+  "theme_color": "#000010",
+  "icons": []
+}
